@@ -1,1 +1,5 @@
-# EJERCICIOS-PR-CTICOS
+# EJERCICIOS-PRACTICOS
+
+| Actividad | Codigo |
+|-----------|--------|
+| Ejercicios Practicos de listas |  |
