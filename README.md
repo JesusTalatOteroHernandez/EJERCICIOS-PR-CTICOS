@@ -18,5 +18,5 @@
 | Actividad | Codigo|
 |-----------|-------|
 | Actividad 1 | [Comparacion de colas](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-PR-CTICOS/tree/2a4c145328fa08abbea47fb8ed66ba5d967d2b1a/Colas/src/main/java/Actividad1) |
-| Actividad 2 | [Simulacion de supermercado] |
+| Actividad 2 | [Simulacion de supermercado](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-PR-CTICOS/tree/b78dc6a9cfc3b9a310ef3a2ad515ebdfe9f31de7/Colas/src/main/java/Actividad2) |
 | Actividad 3 | [Simulacion de atencion al cliente] | 
