@@ -17,3 +17,6 @@
 # Ejercicios colas
 | Actividad | Codigo|
 |-----------|-------|
+| Actividad 1 | [Comparacion de colas] |
+| Actividad 2 | [Simulacion de supermercado] |
+| Actividad 3 | [Simulacion de atencion al cliente] | 
