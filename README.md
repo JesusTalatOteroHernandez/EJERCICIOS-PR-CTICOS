@@ -9,7 +9,7 @@
 | Actividad | Codigo|
 |-----------|-------|
 | Actividad 2 | [Pila de nombres](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-PR-CTICOS/tree/80e569fddd961f4b8362fab01c07a82d9b0c1922/Pilas/src/main/java/Actividad_2_PilaDeNombres) |
-| Actividad 3 | [Verificar si la pila esta vacia] |
+| Actividad 3 | [Verificar si la pila esta vacia](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-PR-CTICOS/tree/391929d9535a07ef85f1d6b4fe80f74542c48533/Pilas/src/main/java/Actividad_3_VerificarSiLaPilaEstaVacia) |
 | Actividad 4 | [Invertir una palabra] |
 | Actividad 5 | [Balanceo de parentesis] |
 | Actividad 6 | [Decimal a binario] |
