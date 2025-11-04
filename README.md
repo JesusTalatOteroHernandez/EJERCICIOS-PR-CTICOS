@@ -12,4 +12,4 @@
 | Actividad 3 | [Verificar si la pila esta vacia](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-PR-CTICOS/tree/391929d9535a07ef85f1d6b4fe80f74542c48533/Pilas/src/main/java/Actividad_3_VerificarSiLaPilaEstaVacia) |
 | Actividad 4 | [Invertir una palabra](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-PR-CTICOS/tree/6430cc505824b480917535d542a64349b3bb1a8a/Pilas/src/main/java/Actividad_4_InvertirUnaPalabra) |
 | Actividad 5 | [Balanceo de parentesis](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-PR-CTICOS/tree/801e0dd655e0aa0e392bea06a2dc19782be40746/Pilas/src/main/java/Actividad_5_BalanceoDeParentesis) |
-| Actividad 6 | [Decimal a binario] |
+| Actividad 6 | [Decimal a binario](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-PR-CTICOS/tree/16250fc4f5869d69bad48d13a9a2431aaee5a7a8/Pilas/src/main/java/Actividad_6_DecimalABinario) |
