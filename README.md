@@ -17,6 +17,6 @@
 # Ejercicios colas
 | Actividad | Codigo|
 |-----------|-------|
-| Actividad 1 | [Comparacion de colas]() |
+| Actividad 1 | [Comparacion de colas](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-PR-CTICOS/tree/9705a4028ea2bb8b442d4d2d8af04bed3c8d7870/Colas/src/main/java/Actividad1) |
 | Actividad 2 | [Simulacion de supermercado]() |
 | Actividad 3 | [Simulacion de atencion al cliente]() | 
